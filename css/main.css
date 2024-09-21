@@ -1,4 +1,4 @@
-ul.categories li a {
+ul.categories li a, ul li a {
     text-decoration:none
 }
 
